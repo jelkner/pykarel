@@ -3,8 +3,9 @@
 pykarel is a learning tool for teaching programming based on Karel the Robot.
 It uses tkinter for graphical display.
 
-__author__ = "Shane Torbert and Paul Bui"
+__author__ = "Shane Torbert"
 __copyright__ = "Copyright 2015, Shane Torbert"
+__credits__ = ["Paul Bui", "Matt Gallagher", "Jeff Elkner"]
 __license__ = "Creative Commons Attribution Sharealike 4.0 International"
 __version__ = "0.5"
 __maintainer__ = "Jeffrey Elkner"
